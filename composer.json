@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/u133184-lab1",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Zhuga",
+      "email": "Zhuga200117@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/validator": "^6.0"
+  }
+}
